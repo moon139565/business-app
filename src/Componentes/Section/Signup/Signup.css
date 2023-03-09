@@ -1,0 +1,20 @@
+.rej-area{
+    background-color: #2125299c;
+    height: 100vh;
+}
+.sign-up-link{
+    display: block;
+    color: blue;
+    padding: 10px 20px !important;
+}
+.sign-up-btn{
+    margin-top: 10px;
+}
+.or-Style{
+    display: block;
+    background-color: darkgray;
+    margin: 20px 0;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 5px;
+}

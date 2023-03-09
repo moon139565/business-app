@@ -1,0 +1,9 @@
+.Footer-Section{
+    background-color: #070707;
+    color: azure;
+    margin: 0;
+    padding: 60px 0;
+}
+.footer-Text p{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.about-Text-area{
+    padding: 70px 0;
+    background-color: #212529;
+}
+.about-text-div img{
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.about-text{
+    text-align: center;
+    color: azure;
+    margin-top: 50px;
+}
+.about-text h2{
+    margin-bottom: 25px;
+}
+.about-text p{
+    margin-top: 40px ;
+    padding: 0 15px;
+    text-align: center;
+}

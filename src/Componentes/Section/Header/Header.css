@@ -1,0 +1,20 @@
+.header .navbar-nav a {
+    margin-left: 20px;
+    text-align: center;
+
+}
+
+.header .navbar-nav .btn{
+    background-color: #3B3C35;
+    border: 1px solid #0A58CA;
+    color: #fff;
+    min-width: 120px;
+    text-align: center;
+    border-radius: 6px;
+    transition: 0.5s;
+    
+}
+.header .navbar-nav .btn:hover{
+    background-color: #212529;
+    color: #0A58CA;
+}

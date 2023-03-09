@@ -1,0 +1,47 @@
+
+  .slide .carousel-caption {
+    bottom: 140px;
+    text-align: center;
+  }
+  .slide .carousel-caption h3 {
+    font-size: 60px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+  }
+  .slide .carousel-caption p {
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+  }
+  .slide .carousel-caption button{
+    background-color: #3B3C35;
+  }
+  .slide .carousel-caption button:hover{
+    background-color: #212529;
+    color: #0A58CA;
+  }
+  @media only screen and (max-width:688px){
+    .carosel-Text{
+      margin-bottom: -110px;
+    }
+    .slide .carousel-caption h3 {
+      font-size: 25px;
+      text-transform: capitalize;
+      letter-spacing: 1px;
+    }
+    .slide .carousel-caption p {
+      font-size: 12px;
+      letter-spacing: 1px;
+      margin: 11px 0;
+    }  
+    .slide .carousel-caption button{
+      height: 38px;
+      width: 94.95px;
+      font-size: 12px;
+    }
+  }
+  @media only screen and (min-width:689px) and (max-width:1099px){
+    .carosel-Text{
+      margin-bottom: -70px;
+    }
+  }

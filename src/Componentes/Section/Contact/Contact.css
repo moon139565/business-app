@@ -1,0 +1,67 @@
+.contact-Area{
+    background-color: #212529;
+    color: azure;
+    padding: 40px 0;
+}
+.contact-from{
+    padding: 20px 10px;
+}
+
+.contact-from h3{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #6C757D;
+}
+.contact-from button{
+    margin-top: 20px;
+    background-color: #212529;
+    transition: 0.5s;
+}
+.contact-from button:hover{
+    background-color: #21252967;
+}
+.contact-from input{
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+    background-color: #212529;
+    color: azure;
+}
+.contact-from textarea{
+    background-color: #212529;
+    border: none;
+}
+.contact-Parent{
+    background-color: #070707;
+    border-radius: 5px;
+}
+.contact-Text{
+    margin-top: 20px;
+    color: #6C757D;
+}
+.contact-Text h4{
+    margin-bottom: 20px;
+}
+.contact-Text ul li a{
+    text-decoration: none;
+    color: #6C757D;
+}
+.contact-Text ul li {
+    list-style: none;
+}
+.contact-Text ul li i {
+    margin-right: 15px;
+    height: 48px;
+    width: 48px;
+    background-color: #212529;
+    line-height: 48px;
+    text-align: center;
+    font-size: 18px;
+    color: #6C757D;
+    border: 1px solid #0A58CA;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.contact-Text ul{
+    padding-left: 0;
+}

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Media Marketing",
+      "description": "Social media marketing is the use of social media platforms and websites",
+      "img": "https://i.ibb.co/6FCp0M7/ss1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Email Marketing",
+      "description": "Email marketing is a form of marketing that can make the customers on your email",
+      "img": "https://i.ibb.co/DzsQdVC/ss2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "SEM / Adwords",
+      "description": "Diam nonummy nibh euismod tincidunt out laoreet dolore magna aliquam erat volpate.",
+      "img": "https://i.ibb.co/DQc3kDb/ss3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ecommerce / Ms ",
+      "description": "Ecommerce or electronic commerce is the trading of goods and services.",
+      "img": "https://i.ibb.co/QvfjLrH/ss4.jpg"
+    }
+  ]

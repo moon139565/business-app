@@ -1,0 +1,12 @@
+.signin-area{
+    height: 100vh;
+    background-color: #2125299c;
+}
+.sign-in-link{
+    display: block;
+    color: blueviolet;
+    padding: 10px 20px !important;
+}
+.sign-in-btn{
+    margin-top: 10px;
+}

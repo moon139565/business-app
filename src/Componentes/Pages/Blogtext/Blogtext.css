@@ -1,0 +1,35 @@
+.Blog-Text{
+    padding: 60px 0;
+    background-color: #212529;
+}
+.imge-parent{
+    position: relative;
+    overflow: hidden;
+}
+.imge-parent .imagebb{
+    transition: 0.5s;
+}
+.imge-parent:hover .imagebb{
+    transform: scale(1.5);
+}
+.imge-parent:hover .imge-Text{
+    opacity: 1;
+    background-color: #00000080;
+}
+.imge-Text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-content: center;
+    opacity: 0;
+    transition: 0.5s;
+}
+.imge-Text h2{
+    font-size: 20px;
+    color: azure;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+}
