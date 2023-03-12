@@ -1,6 +1,5 @@
 .rej-area{
     background-color: #2125299c;
-    height: 100vh;
 }
 .sign-up-link{
     display: block;
@@ -17,4 +16,15 @@
     text-align: center;
     padding: 5px 0;
     border-radius: 5px;
+}
+.sign-up-link span{
+    color: blue;
+}
+.rej-area button{
+    background-color: #3B3C35;
+    transition: 0.5s;
+}
+.rej-area button:hover{
+    background-color: #212529;
+    color: #0A58CA;
 }

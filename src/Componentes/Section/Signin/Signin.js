@@ -55,7 +55,7 @@ const Signin = () => {
               </Form.Group>
               <div id="message-div"></div>
               <NavLink to="/signup" className="sign-in-link nav-link">
-                New User? Sign Up Here
+                New User? <span>Sign Up Here</span>
               </NavLink>
               <Button
                 variant="primary"

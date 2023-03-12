@@ -1,6 +1,6 @@
 .signin-area{
-    height: 100vh;
     background-color: #2125299c;
+    padding-bottom: 40px;
 }
 .sign-in-link{
     display: block;
@@ -8,5 +8,16 @@
     padding: 10px 20px !important;
 }
 .sign-in-btn{
-    margin-top: 10px;
+    margin: 10px 0;
+}
+.signin-area button{
+    background-color: #3B3C35;
+    transition: 0.5s;
+}
+.signin-area button:hover{
+    background-color: #212529;
+    color: #0A58CA;
+}
+.sign-in-link span{
+    color: blue;
 }
