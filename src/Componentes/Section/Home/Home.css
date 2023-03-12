@@ -15,6 +15,7 @@
   }
   .slide .carousel-caption button{
     background-color: #3B3C35;
+    transition: 0.5s;
   }
   .slide .carousel-caption button:hover{
     background-color: #212529;
